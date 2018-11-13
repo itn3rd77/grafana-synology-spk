@@ -1,0 +1,10 @@
+{
+	"certificate-config": {
+		"services": [{
+			"display_name": "Grafana",
+			"display_name_i18n": "Grafana",
+			"service": "grafana-server"
+		}],
+		"reloader-relpath": "usr/bin/ca_reload"
+	}
+}
